@@ -11,4 +11,4 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-Apaixonado por tecnologia, Desde pequeno fascinado por saber como diversas tecnologia funcionam, e achar soluções que tornam a vida mais pratica ❤️
+Jovem, Apaixonado por tecnologia e entender a lógica por trás de tudo me fascina, resolver problemas achar soluções que tornam a vida melhor. ❤️
