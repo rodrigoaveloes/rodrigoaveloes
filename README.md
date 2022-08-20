@@ -7,10 +7,7 @@
 
 ### Frontend
 
-<div style="display: inline_block">
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,styledcomponents,sass,tailwind)](https://skillicons.dev)
-  </div>
-  <br/>
 
 ### Backend / Database
   <div style="display: inline_block">
