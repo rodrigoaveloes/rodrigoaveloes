@@ -1,7 +1,8 @@
-## Rodrigo Avelões✨
+## Rodrigo Avelões 
+Front-end developer UI/UX
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoaveloes&show_icons=true&theme=dracula&count_private=true)
- Front-end developer 
+
 ## Tecnologias que utilizo com frequência
 
 <div style="display: inline_block">
