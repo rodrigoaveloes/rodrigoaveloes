@@ -5,7 +5,7 @@ Web developer
 
 ## Tecnologias que utilizo com frequência
 
-# Frontend
+### Frontend
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" width="50"/>
@@ -20,7 +20,7 @@ Web developer
   </div><br/>
   <br/>
   
-  # Backend / Database
+  ### Backend / Database
   <div style="display: inline_block">
   <img align="center" alt="NodeJS" src="https://i.imgur.com/xowpYfU.png"  width="50" />
   <img align="center" alt="ExpressJS" src="https://i.imgur.com/hxiUohw.png"  width="50" />
