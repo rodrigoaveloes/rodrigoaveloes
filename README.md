@@ -8,7 +8,7 @@
 ### Frontend
 
 <div style="display: inline_block">
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,styledcomponents,sass,tailwind,
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,styledcomponents,sass,tailwind
 )](https://skillicons.dev)
   <br/>
 
