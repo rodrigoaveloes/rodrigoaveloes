@@ -18,7 +18,7 @@ Web developer
   <img align="center" alt="Styled components" src="https://i.imgur.com/jThJ7zs.png"  width="50"/>
   <img align="center" alt="TailwindCss" src="https://i.imgur.com/Ygxf5tc.png"  width="50" />
   </div><br/>
-  
+  <hr/>
   ### Backend / Database
   <div style="display: inline_block">
   <img align="center" alt="NodeJS" src="https://i.imgur.com/xowpYfU.png"  width="50" />
