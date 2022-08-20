@@ -1,4 +1,4 @@
-## Rodrigo Avelões -  ### Web developer
+## Rodrigo Avelões - Web developer
 
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoaveloes&show_icons=true&theme=dracula&count_private=true)
