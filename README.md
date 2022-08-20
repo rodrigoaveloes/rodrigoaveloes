@@ -1,6 +1,6 @@
 ## Olá, Sou Rodrigo Avelões ✨
 
-Sou desenvolvedor Web com habilidades ui/ux que está em constante evolução e se desafiando para alcançar novos aprendizados.
+Sou desenvolvedor Web com habilidades UI/UX que está em constante evolução e se desafiando para alcançar novos aprendizados.
 Apaixonado por tecnologia, me fascina entender a lógica por trás das coisas, e achar soluções que transformam nossas vidas para melhor ❤️
 <br/>
 
