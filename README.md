@@ -17,13 +17,15 @@ Web developer
    <br/>
   <img align="center" alt="Styled components" src="https://i.imgur.com/jThJ7zs.png"  width="50"/>
   <img align="center" alt="TailwindCss" src="https://i.imgur.com/Ygxf5tc.png"  width="50" />
-  
+  </div><br/>
   <br/>
   
-  Backend / Database
+  # Backend / Database
+  <div style="display: inline_block">
   <img align="center" alt="NodeJS" src="https://i.imgur.com/xowpYfU.png"  width="50" />
   <img align="center" alt="ExpressJS" src="https://i.imgur.com/hxiUohw.png"  width="50" />
   <img align="center" alt="MySql" src="https://i.imgur.com/JmrCWJM.png"  width="50" />
+  </div><br/>
   
   
       
@@ -40,6 +42,6 @@ Web developer
 
   
   
-</div><br/>
+
 
 Apaixonado por tecnologia, me fascina entender a lógica por trás das coisas, e achar soluções que tornam nossas vidas melhor ❤️
