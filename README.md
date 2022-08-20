@@ -1,7 +1,9 @@
-## Rodrigo Avelões - Web developer
+## Olá, Sou Rodrigo Avelões ✨
+
+Apaixonado por tecnologia, me fascina entender a lógica por trás das coisas, e achar soluções que transformam nossas vidas para melhor ❤️
+<br/>
 
 
-![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoaveloes&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que utilizo com frequência
 
@@ -11,23 +13,7 @@
 
 ### Backend / Database
  [![Frontend Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,)](https://skillicons.dev)
- <br/>
-  
-  
-      
-     
-      
-  
-  
-  
-  
 
-  	
+### Minhas Estatística 📈
+ ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoaveloes&show_icons=true&theme=dracula&count_private=true)
   
-  
-
-  
-  
-
-
-Apaixonado por tecnologia, me fascina entender a lógica por trás das coisas, e achar soluções que tornam nossas vidas melhor ❤️
