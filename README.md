@@ -10,11 +10,8 @@
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,styledcomponents,sass,tailwind)](https://skillicons.dev)
 
 ### Backend / Database
-  <div style="display: inline_block">
-  <img align="center" alt="NodeJS" src="https://i.imgur.com/xowpYfU.png"  width="50" />
-  <img align="center" alt="ExpressJS" src="https://i.imgur.com/hxiUohw.png"  width="50" />
-  <img align="center" alt="MySql" src="https://i.imgur.com/JmrCWJM.png"  width="50" />
-  </div><br/>
+ [![Frontend Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,)](https://skillicons.dev)
+ <br/>
   
   
       
