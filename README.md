@@ -1,24 +1,39 @@
 ## Rodrigo Avelões 
-Front-end developer - UI/UX
+Web developer
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoaveloes&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que utilizo com frequência
 
+# Frontend
+
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" width="50"/>
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="css" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="50" />
+  <img align="center" alt="js" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50" />
    <br/>
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="react" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" />
+  <img align="center" alt="Typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="50" />
    <br/>
-  <img align="center" alt="Styled components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-  <img align="center" alt="TailwindCss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img align="center" alt="Styled components" src="https://www.freecodecamp.org/news/using-styled-components-without-template-literals-75496476e73d/"  width="50"/>
+  <img align="center" alt="TailwindCss" src="https://i.imgur.com/Ygxf5tc.png"  width="50" />
   
   <br/>
-  <img align="center" alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  
+  Backend / Database
+  <img align="center" alt="NodeJS" src="https://i.imgur.com/xowpYfU.png"  width="50" />
+  <img align="center" alt="ExpressJS" src="https://i.imgur.com/hxiUohw.png"  width="50" />
+  <img align="center" alt="MySql" src="https://i.imgur.com/JmrCWJM.png"  width="50" />
+  
+  
+      
+     
+      
+  
+  
+  
+  
+
   	
   
   
