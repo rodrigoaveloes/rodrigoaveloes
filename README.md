@@ -1,7 +1,6 @@
 ## <p align="center">Olá, Sou Rodrigo Avelões 👨‍💻</p>
 
-Sou desenvolvedor Web com habilidades de design em constante evolução e se desafiando para alcançar novos aprendizados.
-Apaixonado por tecnologia, me fascina entender a lógica por trás das coisas, e achar soluções que transformam nossas vidas para melhor ❤️
+Sou desenvolvedor Web com habilidades de design em constante evolução, sempre me desafiando para alcançar novos aprendizados. Apaixonado por tecnologia, sou fascinado por entender a lógica por trás das coisas e encontrar soluções que transformam nossas vidas para melhor ❤️
 <br/>
 <br/>
 
@@ -11,10 +10,10 @@ Apaixonado por tecnologia, me fascina entender a lógica por trás das coisas, e
 
 ### Frontend
 
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,styledcomponents,sass,tailwind)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,styledcomponents,sass,tailwind,materialui)](https://skillicons.dev)
 
 ### Backend / Database
- [![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,)](https://skillicons.dev)
+ [![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,graphql,redis)](https://skillicons.dev)
 
 ### Minhas Estatística 📈
  ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoaveloes&show_icons=true&theme=dracula&count_private=true)
