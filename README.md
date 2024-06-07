@@ -13,7 +13,7 @@ Sou desenvolvedor Web com habilidades de design em constante evolução, sempre 
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,styledcomponents,sass,tailwind,materialui)](https://skillicons.dev)
 
 ### Backend / Database
- [![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,graphql,redis)](https://skillicons.dev)
+ [![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,redis)](https://skillicons.dev)
 
 ### Minhas Estatística 📈
  ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoaveloes&show_icons=true&theme=dracula&count_private=true)
