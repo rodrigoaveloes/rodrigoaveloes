@@ -18,12 +18,6 @@ Sou desenvolvedor Web com habilidades de design em constante evolução, sempre 
 ### Minhas Estatística 📈
  ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoaveloes&show_icons=true&theme=dracula&count_private=true)
  
-
- 
-  ## ✍️ Protótipos no figma 
- Clique no icone para conhecer um pouco meus projetos 👉 [![Ui Skills](https://skillicons.dev/icons?i=,figma)](https://www.notion.so/Prototype-Apps-UI-by-Rodrigo-Avel-es-ca0abf81a838482c9a2dd159401ac422)
- 
- 
   ## 📫 onde me encontrar
  
  
